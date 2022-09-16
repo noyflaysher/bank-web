@@ -1,5 +1,7 @@
 # bank-web
 
+https://bank-web-n.netlify.app/
+
 https://user-images.githubusercontent.com/94534918/168418867-68c80d09-73d0-44e0-b163-77f190f223d5.mp4
 
 
